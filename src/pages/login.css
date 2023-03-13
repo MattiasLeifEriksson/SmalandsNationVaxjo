@@ -1,0 +1,28 @@
+.LoginForm{
+   
+    padding: 20px;
+ flex-direction: row;
+    height: 300px;
+    color: white;
+ 
+}
+.LoginWindow{
+    margin-top: 150px;
+   border-radius: 25px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+.LoginWindow h1{
+    color: white;
+}
+.LoginWindow p{
+    margin-bottom: 15px;
+}
+#LoginBtn{
+    border-radius: 25px;
+    color: white;
+    background-color: black;
+    border: 2px groove white;
+    padding: 5px;
+}
